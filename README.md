@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David González</h1>
-<h3 align="center">A passionate data scientist who loves everything related with AI</h3>
+<h3 align="center">A passionate data scientist who loves everything related with AI!</h3>
 
 - 💬 Ask me about **Python, Tensorflow, Pytorch, Transformers**
 
